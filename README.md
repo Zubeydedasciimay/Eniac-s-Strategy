@@ -72,6 +72,7 @@ WHERE
         'computers',
         'tablets_printing_image',
         'telephony');
+	
 **##-- What is the total amount earned by all sellers?**
 
 SELECT 
